@@ -1,5 +1,5 @@
 # Kinematic-Solver
-* Created By Zheer Seyan, Amina Omonullaeva added sweeping
+* Created By Zheer Seyan, with enhancements contributed by Amina Omonullaeva.
 * Limited to pure heave and pure roll (for now)
 * pair of scripts each for double wishbone and macpherson strut
   * macpherson stuff is prefixed w/ strut
